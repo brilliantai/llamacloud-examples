@@ -1,0 +1,8 @@
+gradio 
+pymupdf 
+requests 
+beautifulsoup4 
+qdrant-client 
+langchain
+openai
+langchain-openai

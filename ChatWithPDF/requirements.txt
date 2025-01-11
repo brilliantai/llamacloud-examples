@@ -1,0 +1,6 @@
+streamlit
+qdrant-client
+fitz  # or PyMuPDF
+requests
+beautifulsoup4
+openai
